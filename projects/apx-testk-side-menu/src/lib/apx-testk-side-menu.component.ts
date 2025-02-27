@@ -17,6 +17,9 @@ export enum TitleColor {
 export class ApxTestkSideMenuComponent {
 
   isAuthenticated = input(false);
+  title = input('KGS');
+  subtitle = input('Test');
+
   titleColor = input<TitleColor>(TitleColor.purple);
 
   onSignOut = output();
