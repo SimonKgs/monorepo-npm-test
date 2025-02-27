@@ -1,9 +1,9 @@
 {
   "name": "apx-testk-side-menu",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
-    "type": "git"
-
+    "type": "git",
+    "url": "https://github.com/SimonKgs/monorepo-npm-test.git"
   },
   "keywords": ["kgs", "test", "do-not-use"],
   "author": {
